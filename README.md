@@ -12,8 +12,8 @@
 ![](https://streak-stats.demolab.com/?user=aabirbhowmik&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=aabirbhowmik&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aabirbhowmik&theme=chartreuse-dark&no-frame=false&no-bg=true&margin-w=4)
+## 🌟 Portfolio
+https://aabirbhowmik-portfolio.vercel.app/
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
