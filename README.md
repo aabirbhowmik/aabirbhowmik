@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I’m Aabir, a Python Developer and recent B.Sc. IT graduate passionate about building secure, scalable, and real-world applications.<br>I work with **Python, Flask, FastAPI, PostgreSQL, and SQLAlchemy**, with hands-on experience in REST APIs, authentication, and cloud deployment. 🚀<br>I’m currently expanding my skills in **AI/ML Engineering**, with a goal of building intelligent, production-ready applications that solve meaningful problems. 🤖<br>
+I’m Aabir, a Python Developer and recent B.Sc. IT graduate passionate about building secure, scalable, and real-world applications. I work with **Python, Flask, FastAPI, PostgreSQL, and SQLAlchemy**, with hands-on experience in REST APIs, authentication, and cloud deployment. 🚀I’m currently expanding my skills in **AI/ML Engineering**, with a goal of building intelligent, production-ready applications that solve meaningful problems. 🤖
 
 
 ## 🌐 Socials:
